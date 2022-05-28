@@ -27,7 +27,7 @@ git clone https://github.com/C-O-O-L-dude/Ummahhbot
 ```
 - Change Directory
 ```sh 
-cd IDN-GDrive-Bot
+cd Ummahhbot
 ```
 - Install requirements with pip3
 ```sh 
